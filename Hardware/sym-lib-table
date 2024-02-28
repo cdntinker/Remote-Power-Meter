@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "LCSC")(type "KiCad")(uri "${KIPRJMOD}/KiCAD Customs/Symbols/LCSC.kicad_sym")(options "")(descr ""))
   (lib (name "USB-A-TH_48037-0001")(type "KiCad")(uri "${KIPRJMOD}/KiCAD Customs/Symbols/USB-A-TH_48037-0001.kicad_sym")(options "")(descr ""))
+  (lib (name "esp-m3")(type "KiCad")(uri "${KIPRJMOD}/KiCAD Customs/Symbols/esp-m3.kicad_sym")(options "")(descr ""))
 )
